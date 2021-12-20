@@ -1,0 +1,23 @@
+{
+  "listId": 1,
+  "date": "2021-12-20",
+  "groups": [{
+    "groupId": 1,
+    "items": [{
+      "itemId": 1,
+      "quantity": { "weightKg": 0.3 },
+      "completed": false
+    }]
+  },{
+    "groupId": 2,
+    "items": [{
+      "itemId": 1,
+      "quantity": { "count": 2 },
+      "completed": false
+    },{
+      "itemId": 2,
+      "quantity": { "count": 4 },
+      "completed": true
+    }]
+  }]
+}
