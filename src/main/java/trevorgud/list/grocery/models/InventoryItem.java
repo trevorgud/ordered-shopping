@@ -1,7 +1,6 @@
 package trevorgud.list.grocery.models;
 
-public class GroceryListItem {
+public class InventoryItem {
   public Integer id;
-  public Integer order;
   public String name;
 }

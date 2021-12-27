@@ -3,24 +3,19 @@
   "id": 1,
   "groups": [{
     "id": 1,
-    "order": 2,
     "name": "bins",
     "items": [{
       "id": 1,
-      "order": 2,
       "name": "Coffee"
     }]
   }, {
     "id": 2,
-    "order": 1,
     "name": "produce",
     "items": [{
       "id": 1,
-      "order": 2,
       "name": "Oranges"
     }, {
       "id": 2,
-      "order": 1,
       "name": "Apples"
     }]
   }]

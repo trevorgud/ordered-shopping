@@ -3,9 +3,9 @@ package trevorgud.list.grocery.models;
 import java.util.ArrayList;
 import java.util.Date;
 
-public class ListInstance {
+public class ShoppingList {
   public Integer listId;
   public String name;
   public Date date;
-  public ArrayList<GroupRef> groups;
+  public ArrayList<ShoppingGroup> groups;
 }

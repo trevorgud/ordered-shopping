@@ -2,8 +2,8 @@ package trevorgud.list.grocery.models;
 
 import java.util.ArrayList;
 
-public class ItemRef {
+public class ShoppingItem {
   public Integer itemId;
-  public ItemQuantity quantity;
+  public ShoppingItemQuantity quantity;
   public Boolean completed;
 }
